@@ -2,7 +2,7 @@
 
 <!-- ── README BACKGROUND ─────────────────────────────────────── -->
 
-<div style="background-image: url('./assets/ayush_das_readme_background.svg'); background-size: cover; background-position: center top; background-repeat: no-repeat;">
+<div style="background-image: url('./aman_hansdah_animated_header.html'); background-size: cover; background-position: center top; background-repeat: no-repeat;">
 
 <!-- ── ANIMATED HEADER ────────────────────────────────────────── -->
 
@@ -129,6 +129,6 @@ const aman = {
 
 <div align="center">
 
-<img src="./ayush_das_github_footer.svg" width="100%" alt="Animated footer" />
+<img src="./aman_hansdah_animated_footer.html" width="100%" alt="Animated footer" />
 
 </div>
