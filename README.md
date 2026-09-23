@@ -51,31 +51,6 @@ const aman = {
 
 <br/>
 
-<!-- ── LEETCODE ──────────────────────────────────────────────── -->
-
-<h2 align="center">LEETCODE</h2>
-
-<div align="center">
-
-<a href="https://leetcode.com/u/ayushdas27/">
-  <img
-    src="https://leetcard.jacoblin.cool/ayushdas27?theme=dark&font=JetBrains%20Mono&ext=heatmap"
-    width="79%"
-    alt="LeetCode Stats"
-  />
-</a>
-
-<br/><br/>
-
-<a href="https://leetcode.com/u/ayushdas27/">
-  <img
-    src="https://img.shields.io/badge/leetcode-profile-0f172a?style=for-the-badge&logo=leetcode&logoColor=FFA116"
-    alt="LeetCode Profile"
-  />
-</a>
-
-</div>
-
 <!-- ── LANGUAGES & TOOLS ─────────────────────────────────────── -->
 
 <h2 align="center">lANGUAGES & TOOLS</h2>
@@ -109,7 +84,7 @@ const aman = {
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/ayushdasofficial27112007/"><img src="https://img.shields.io/badge/linkedin-0f172a?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iIzc0ZDNmYyI+PHBhdGggZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzcwLTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2EyLjA2MiAyLjA2MiAwIDAxLTIuMDYzLTIuMDY1IDIuMDY0IDIuMDY0IDAgMTEyLjA2MyAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwIi8+PC9zdmc+" /></a>
+<a href="https://www.linkedin.com/in/aman-hansdah-747071439/"><img src="https://img.shields.io/badge/linkedin-0f172a?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iIzc0ZDNmYyI+PHBhdGggZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzcwLTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2EyLjA2MiAyLjA2MiAwIDAxLTIuMDYzLTIuMDY1IDIuMDY0IDIuMDY0IDAgMTEyLjA2MyAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwIi8+PC9zdmc+" /></a>
  
 <a href="https://www.instagram.com/_ronak08._/"><img src="https://img.shields.io/badge/instagram-0f172a?style=for-the-badge&logo=instagram&logoColor=7dd3fc" /></a>
  
