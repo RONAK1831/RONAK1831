@@ -27,9 +27,9 @@
 <td width="65%" valign="top" style="padding: 24px; font-family: 'JetBrains Mono', 'Fira Code', monospace;">
 
 ```typescript
-const ayush = {
+const aman = {
     pronouns    : "he" as const,
-    title       : "B.Tech CSE (AI/ML) · DPS Siliguri Alumnus",
+title       : "B.Tech CSE (AI/ML) · Shree Krishna International Alumnus",
     stack       : ["Python", "C", "TypeScript", "MySQL"],
     projects    : {
         urbanSight : "AI-powered urban intelligence — CV + geospatial",
