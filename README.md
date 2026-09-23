@@ -26,10 +26,15 @@
 <tr>
 <td width="65%" valign="top" style="padding: 24px; font-family: 'JetBrains Mono', 'Fira Code', monospace;">
 
-const aman = {
+```typescript
+const ayush = {
     pronouns    : "he" as const,
-    title       : "B.Tech CSE (AI/ML) · SRI KRISHNA INTERNATIONAL SCHOOL Alumnus",
+    title       : "B.Tech CSE (AI/ML) · DPS Siliguri Alumnus",
     stack       : ["Python", "C", "TypeScript", "MySQL"],
+    projects    : {
+        urbanSight : "AI-powered urban intelligence — CV + geospatial",
+        lunarAlign : "Chandrayaan-2 lunar image correspondence system",
+        quantam    : "Smart digital procurement platform",
     },
     achievements: [
         "Smart India Hackathon · AI/ML",
@@ -39,6 +44,7 @@ const aman = {
     motto       : "Minimal. Chill. Shipping anyway. ⚡",
     openTo      : ["collabs", "internships", "interesting problems"],
 } as const;
+```
 
 </td>
 <td width="35%" valign="middle" align="center" style="padding: 20px; border-left: 1px solid #1e293b; background: #08111e;">
