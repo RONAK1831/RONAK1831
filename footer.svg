@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#05070d"/><stop offset=".5" stop-color="#07101b"/><stop offset="1" stop-color="#05070d"/>
+  </linearGradient>
+  <pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse">
+    <path d="M42 0H0V42" fill="none" stroke="#6482ff" stroke-opacity=".12"/>
+  </pattern>
+  <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#38bdf8" stop-opacity="0"/>
+    <stop offset=".5" stop-color="#38bdf8" stop-opacity=".55"/>
+    <stop offset="1" stop-color="#8b5cf6" stop-opacity="0"/>
+  </linearGradient>
+</defs>
+
+<rect width="1200" height="300" rx="18" fill="url(#bg)"/>
+<rect width="1200" height="300" fill="url(#grid)"/>
+
+<path d="M-80 20 Q300 -55 650 20 T1280 20" fill="none" stroke="#38bdf8" stroke-opacity=".55">
+  <animate attributeName="d" values="M-80 20 Q300 -55 650 20 T1280 20;M-80 20 Q300 55 650 20 T1280 20;M-80 20 Q300 -55 650 20 T1280 20" dur="5s" repeatCount="indefinite"/>
+</path>
+<path d="M-80 35 Q300 -25 650 35 T1280 35" fill="none" stroke="#8b5cf6" stroke-opacity=".35">
+  <animate attributeName="d" values="M-80 35 Q300 -25 650 35 T1280 35;M-80 35 Q300 35 650 5 T1280 35;M-80 35 Q300 -25 650 35 T1280 35" dur="5s" repeatCount="indefinite"/>
+</path>
+
+<g fill="#38bdf8">
+  <circle cx="130" cy="145" r="3"><animate attributeName="cy" values="145;125;145" dur="4s" repeatCount="indefinite"/></circle>
+  <circle cx="280" cy="110" r="2"><animate attributeName="cy" values="110;92;110" dur="3s" repeatCount="indefinite"/></circle>
+  <circle cx="930" cy="130" r="2"><animate attributeName="cy" values="130;108;130" dur="4.5s" repeatCount="indefinite"/></circle>
+  <circle cx="1080" cy="175" r="3"><animate attributeName="cy" values="175;150;175" dur="3.5s" repeatCount="indefinite"/></circle>
+</g>
+
+<g text-anchor="middle" font-family="Arial, Helvetica, sans-serif">
+  <text x="600" y="105" fill="#94a3b8" font-size="12" letter-spacing="6">THANKS FOR VISITING ✦</text>
+  <text x="600" y="150" fill="#fff" font-size="30" font-weight="600">Let's <tspan fill="#38bdf8">connect</tspan> &amp; build something amazing.</text>
+  <text x="600" y="190" fill="#64748b" font-size="11" letter-spacing="3">KEEP LEARNING · KEEP BUILDING · KEEP GOING</text>
+</g>
+
+<rect x="300" y="215" width="600" height="1" fill="url(#line)"/>
+<text x="600" y="242" fill="#475569" font-family="Arial, Helvetica, sans-serif" font-size="9" letter-spacing="2" text-anchor="middle">© 2026 AMAN HANSDAH · BTECH CSE · AIML ASPIRANT</text>
+</svg>
